@@ -10,3 +10,5 @@ It provides functions to validate the JSON response , headers and can be leveara
 * JSON.org
 * TestNG
 
+# Author
+* Rahul Sharma
